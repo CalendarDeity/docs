@@ -1,0 +1,11 @@
+{
+  "name": "calendardeity",
+  "version": "0.1.0",
+  "description": "helps users schedule their day and transition to syncing with a natural sun sleep cylce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

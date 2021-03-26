@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "f417a18b0f9ac1ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "34a5228d9ebbb493",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "plans/Devops strategy.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b789e340d4d7b5a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "85b7d33b5e06037b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afac460e1f9b730e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fde6a09ae95325ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "670b6e9ce15e9b76",
+    "type": "split",
+    "children": [
+      {
+        "id": "d272ffc2ee90c098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15ab8336b1b1ab8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "plans/Devops strategy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b16d5c51e835b16e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "plans/Devops strategy.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302
+  },
+  "lastOpenFiles": [
+    "plans/Devops strategy.md"
+  ]
+}
